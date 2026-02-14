@@ -80,12 +80,12 @@ The cleaned and structured data was imported into **Power BI** for interactive d
 - DAX measures creation
 
 #### KPIs Developed:
-- 📈 Total Global Sales
-- ⭐ Average Rating
-- 🛒 Wishlist-to-Sales Ratio
-- 🎯 Engagement Score
-- 🌍 Regional Contribution %
-- 🖥 Platform Market Share
+-  Total Global Sales
+-  Average Rating
+- Wishlist-to-Sales Ratio
+- Engagement Score
+- Regional Contribution %
+- Platform Market Share
 
 #### Dashboard Insights:
 - Sales performance trends over time
@@ -98,7 +98,7 @@ The dashboards provide strategic, decision-support insights for stakeholders.
 
 ---
 
-## 📊 Key Insights Generated
+##  Key Insights Generated
 
 - Identification of high-performing genres and platforms  
 - Regional differences in sales performance  
@@ -108,7 +108,7 @@ The dashboards provide strategic, decision-support insights for stakeholders.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Transformation (Python)
 - Exploratory Data Analysis
@@ -123,7 +123,7 @@ The dashboards provide strategic, decision-support insights for stakeholders.
 
 ---
 
-## 🚀 End-to-End Analytics Lifecycle
+## End-to-End Analytics Lifecycle
 
 This project showcases:
 
@@ -131,7 +131,7 @@ Raw Data → Data Cleaning → Exploratory Analysis → Database Engineering →
 
 ---
 
-#  Workflow 
+## Workflow 
 
 ```markdown
 ## 🏗 End-to-End Analytics Workflow
@@ -163,7 +163,7 @@ This solution enables:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The **Video Game Sales & Engagement Analytics Project** highlights the integration of Python, MySQL, and Power BI into a cohesive analytics pipeline.
 
@@ -176,6 +176,6 @@ It reflects strong capabilities in:
 
 ---
 
-### ⭐ If you found this project useful, consider giving it a star!
+###  If you found this project useful, consider giving it a star!
 
 
